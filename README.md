@@ -4,9 +4,9 @@
 
 The aim of this Android Application is to show in Augmented Reality, using a Google Cardboard, a 3d model on a Placeholder.
 
-You can save your 3d-models in your Dropbox account, and store the link in a QR-Code. Once did that, the app automatically is able to download the model and show them in Augmented Reality.
+You can save your 3d-models in your Dropbox account, and store the link in a QR-Code. Once did that, the app automatically will download the model and show them in Augmented Reality.
 
-You can find detail information on the project at: https://drive.google.com/file/d/0B0mCfgWu1kQeR2hCVTIxUEFaV2s/view
+You can find detailed information on the project at: https://drive.google.com/file/d/0B0mCfgWu1kQeR2hCVTIxUEFaV2s/view
 
 ## Metaio acquisition
 
