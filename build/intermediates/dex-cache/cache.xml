@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_789d56b28577b459c11f596fbfb1eb18ecdb6de2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_fed26e11a2fbd08e4a83d6b07b02f9c239a4368e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/default/libs/metaiosdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d88da97d03e6e21f7db9b0aaec1cef4ea04bcc1c">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/8/metaiosdk_293c5ee7a4ef47bd8ed40fd6f993ff13612ad2e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bf65d22ebafc0d3e2df2bd720cbfc3a518572830/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/.android/build-cache/c6ea7ebaf650a0e344b7b784d05bb246a9f048e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_933e7abafbeb067cbd3098791d44a66aa811ee6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/.android/build-cache/d619f9d1ab6589733d437d04aeb5ab85dda36772/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca83f09339adbb4d5a184219bb212feffdcd328b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/.android/build-cache/85828680740f3fb9139625b8784294e6f5bf654e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_002f2a35790ebe6c3ea8d0743a4cc4a73f8db6e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/.android/build-cache/44aa68da7f85467893ecc9958a9e8e65014efc13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a13f9a92191db1429bc670a99702238b2cd8b085/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed22e7039c31df849c6720efa4045f23416e6093">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_549d1eb969baadd1388deb7a3ddf416c8a62852b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/.android/build-cache/77d36cccdf378b3ab4c7c4c9b7ec569c50ca9b81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5fc7967ea5482bdfc1071360d9ac53c9ffc2fb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/.android/build-cache/ae1d57de1e1c8d142c8cd474e7fe6b95afd9cb37/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f746e525855b24c39460036b9e03df80fd8b4e05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/.android/build-cache/ab3a0c7763056359b73ea955feed6bad5413bdda/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be7d5b0dc9eb653796d0c07efd1f16e57d8de65a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/.android/build-cache/53326d03471dc1ab9433b593121b71d95c706f3d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b171d485c64c5ba35312b6b811e6e94e69fa68d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/.android/build-cache/6a18198631bc19c4f34ee1ad8ffdba1a6b533eb5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_014aed6f9e5ebeb5b48d8d15795e8151f66a273d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/.android/build-cache/8d4d535757f8d478410285d4b83593ad42800073/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c035d3983fc3baaff7b0ce62fbe24d17f1d0fe67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/.android/build-cache/00fbe28a4a2cc3a96c2dbfe10630779176611f79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13a54f75aa61b87b0c4d80f7661155c8bae2217f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/.android/build-cache/fddb76e252709acfcd609ba20fc63a8343a94149/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8479b8aad2e59288227ee461ee3238681fbdd6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cesarsk/.android/build-cache/7fe63a3d6361b0b6dfdc5153e4916ce5aed33f07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/cesarsk/StudioProjects/QRCodeonAR/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_379b2eb9bbba12d2211c00f938582e17716eabbf/classes.dex" />
+    </item>
+
+</items>
