@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/debug/layout/poidetaildialog.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/res/layout/poidetaildialog.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/debug/layout/button_action_detail.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/res/layout/button_action_detail.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/debug/layout/poiactivity.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/res/layout/poiactivity.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/debug/layout/webview.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/res/layout/webview.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/debug/layout/webviewnav.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/res/layout/webviewnav.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/debug/layout/html5container.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/res/layout/html5container.xml"
+    }
+]

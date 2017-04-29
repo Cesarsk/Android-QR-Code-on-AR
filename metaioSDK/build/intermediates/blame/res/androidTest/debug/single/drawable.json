@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/drawable/toastbackground.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/drawable/toastbackground.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/drawable/simple_button_background_selector.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/drawable/simple_button_background_selector.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/drawable/selector_darker.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/drawable/selector_darker.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/drawable/default_video_poster.png",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/drawable/default_video_poster.png"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/drawable/selector_web_back.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/drawable/selector_web_back.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/drawable/button_detail_blue.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/drawable/button_detail_blue.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/drawable/progress_bar.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/drawable/progress_bar.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/drawable/rating_drawable.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/drawable/rating_drawable.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/drawable/divider.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/drawable/divider.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/drawable/selector_web_forward.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/drawable/selector_web_forward.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/drawable/button_detail_green.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/drawable/button_detail_green.xml"
+    }
+]

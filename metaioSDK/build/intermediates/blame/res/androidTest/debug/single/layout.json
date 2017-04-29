@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/layout/button_action_detail.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/layout/button_action_detail.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/layout/poiactivity.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/layout/poiactivity.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/layout/webview.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/layout/webview.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/layout/webviewnav.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/layout/webviewnav.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/layout/html5container.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/layout/html5container.xml"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/androidTest/debug/layout/poidetaildialog.xml",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/bundles/debug/res/layout/poidetaildialog.xml"
+    }
+]

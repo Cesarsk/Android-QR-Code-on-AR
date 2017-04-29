@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/web_reload.png",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/res/drawable-xxhdpi/web_reload.png"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/share.png",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/res/drawable-xxhdpi/share.png"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/web_forward_dis.png",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/res/drawable-xxhdpi/web_forward_dis.png"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/web_stop.png",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/res/drawable-xxhdpi/web_stop.png"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/web_back_dis.png",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/res/drawable-xxhdpi/web_back_dis.png"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/web_forward.png",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/res/drawable-xxhdpi/web_forward.png"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/star_dis.png",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/res/drawable-xxhdpi/star_dis.png"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/star_act.png",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/res/drawable-xxhdpi/star_act.png"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/web_back.png",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/res/drawable-xxhdpi/web_back.png"
+    },
+    {
+        "merged": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/web_close.png",
+        "source": "/Users/cesarsk/StudioProjects/QRCodeonAR/metaioSDK/res/drawable-xxhdpi/web_close.png"
+    }
+]
