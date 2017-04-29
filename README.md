@@ -12,7 +12,7 @@ You can find detailed informations about this project at: https://drive.google.c
 
 Since Metaio has been acquired by Apple, it's pointless to work on this project anymore. So here's the complete source-code of this application.
 
-The paper is in Italian. I won't translate it in English since Metaio is not available anymore to the public.
+For the same reason, I won't translate the paper in Italian.
 
 ## Copyright
 
